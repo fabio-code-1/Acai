@@ -25,7 +25,7 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer" class="footer">
-    @include('layouts.footer')
+ 
   </footer>
   <!-- End Footer -->
 
