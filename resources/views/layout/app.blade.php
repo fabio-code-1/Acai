@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>arquitetura-ArqAmorim</title>
-  <meta name="description" content="ArqAmorim - Arquitetura inovadora e inspiradora. Soluções exclusivas e personalizadas. Projetos criativos, funcionais e sustentáveis. Palavras-chave: arquitetura, inovação, personalização, sustentabilidade.">
-  <meta name="keywords" content="arquitetura, arquitetura inovadora, projetos personalizados, sustentabilidade, estilo, transformação de espaços, obras de arte, ambiente criativo, funcional e sustentável, ArqAmorim">
+  <title>Açai</title>
+  <meta name="description" content="luciAçai- .">
+  <meta name="keywords" content="açai, luciAçai">
 
 </head>
 
